@@ -1,0 +1,63 @@
+body.dark{
+    background:#111827;
+    color:white;
+}
+
+/* Navbar */
+
+body.dark .navbar{
+    background:#1f2937;
+    color:white;
+}
+
+/* Sidebar */
+
+body.dark .sidebar{
+    background:#0f172a;
+}
+
+/* Cartes */
+
+body.dark .card{
+    background:#1f2937;
+    color:white;
+}
+
+/* Tableau */
+
+body.dark table{
+    background:#1f2937;
+    color:white;
+}
+
+body.dark th{
+    background:#1e40af;
+}
+
+body.dark td{
+    border-color:#374151;
+}
+
+/* Formulaires */
+
+body.dark input,
+body.dark select,
+body.dark textarea{
+
+    background:#374151;
+
+    color:white;
+
+    border:1px solid #555;
+
+}
+
+/* Modal */
+
+body.dark .modal{
+
+    background:#1f2937;
+
+    color:white;
+
+}
